@@ -12,8 +12,6 @@ It uses a simple client server architecture, where the client is responsible for
 - Randomized outcomes for each spin to ensure a fair gaming experience. If you want to create more bet windows, check Server / Constants.cs file > MaxBetWindows.
 - Interfaces to allow winlines custom animations. Check IWinLineAnimation.cs file for more details.
 
-([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/salvadorlemus/Unity-Slot-Casino-Game/blob/main/SlotCasinoShort.mp4))
-
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Open the project in Unity 6.3 LTS prefered.
