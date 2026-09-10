@@ -9,7 +9,6 @@ using Server.BetWindow;
 using UnityEngine;
 using Logger = Miscellaneous.Loggers.Logger;
 using Random = System.Random;
-using Vector2 = System.Numerics.Vector2;
 
 namespace Client.FSM
 {

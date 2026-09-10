@@ -1,5 +1,9 @@
 # Slot Casino Game
 
+## V1.0.1
+Bug fix : Fixed issue with symbols being cut by reel borders.
+
+## V1.0.0
 ## Overview
 Unity project that simulates a slot machine game. The game features a basic user interface where players can spin the reels and win or lose based on the outcome.
 
